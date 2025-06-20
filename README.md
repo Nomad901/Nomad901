@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Nomad901
-- 👀 I’m interested in GAMESSSSSSSS
-- 🌱 I’m currently learning GAMESSSSSSS and physics with math:(
-- 📫 How to reach me: Telegram @Tango_rus
-- 😄 Pronouns: TANGOOOOOOOOOOOOOOOOOOO
-- ⚡ Fun fact: I'm a nerd
+Hey! I am Tango! Currently working on my first big project "Misiries of the World"! 
+I am open for talking: 
+Tg: @Tango_rus ( btw i'm from Russia, yep) 
+Discord: tango362 
+LinkedIn: 
 
 <!---
 Nomad901/Nomad901 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
