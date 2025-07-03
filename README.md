@@ -2,7 +2,6 @@ Hey! I am Tango! Currently working on my first big project "Misiries of the Worl
 I am open for talking: 
 Tg: @Tango_rus ( btw i'm from Russia, yep) 
 Discord: tango362 
-LinkedIn: 
 
 <!---
 Nomad901/Nomad901 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
