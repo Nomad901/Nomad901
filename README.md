@@ -1,7 +1,7 @@
-Hey! I am Tango! Currently working on my first big project "Misiries of the World"! 
-I am open for talking: 
-Tg: @Tango_rus ( btw i'm from Russia, yep) 
-Discord: tango362 
+Hey! I am Tango! Currently learning 3D-Modeling, OpenGL and by all means C++!!! <br/>
+Tg: @Tango_rus<br/>
+Discord: tango362<br/> 
+3D-Works: t.me/Tangosworks <br/>
 
 <!---
 Nomad901/Nomad901 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
