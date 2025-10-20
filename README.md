@@ -1,5 +1,5 @@
-Hey! I am Tango! Currently learning 3D-Modeling, OpenGL and by all means C++!!! <br/>
-Wanna talk abt something? Im always free to talk about any topic! <br/>
+Hey! I am Tango! Currently learning 3D-Modeling, OpenGL and Unity. <br/>
+Wanna talk abt something? Im always free! <br/>
 Tg: @Tango_rus<br/>
 Discord: tango362<br/> 
 3D-Works: t.me/Tangosworks <br/>
