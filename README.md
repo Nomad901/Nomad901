@@ -1,19 +1,18 @@
-<p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
-<p align="center"><i>- Aaron Swartz (2013 ~ 1986) -</i></p>
+<p align="center"><i>“People who dream small dreams - continue to live as small people.”</i></p>
+<p align="center"><i>- Robert Kiyosaki -</i></p>
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-I am a skilled and experienced full-stack developer with a strong background in web development, software engineering, and database management. I have extensive experience in designing, developing, and deploying web applications.I am a self-motivated individual who is always eager to learn new technologies and stay up-to-date with the latest industry trends. I am a team player who can work well with others to deliver high-quality projects on time.I am currently available for work and open to new opportunities. If you are looking for a full-stack developer who can bring your ideas to life and help your business grow, please feel free to reach out to me.
+I am a passionate C++ and C# game developer with a deep-seated drive for learning and innovation. My fascination with games, which began in my earliest years, has evolved into a career dedicated to bringing imaginative worlds to life.
+My technical skills include graphics programming with OpenGL/C++ and game development with Unity/C#. My work in OpenGL sparked a profound interest in 3D graphics, which I further explore through 3D modeling in Blender as a hobbyist, creating a substantial library of personal assets.
+I am currently channeling this passion into developing my own 3D game engine, Tango Engine, laying the foundation for my future projects. I am thrilled by the challenge of turning ambitious dreams into tangible, interactive experiences.
 
-[![GitHub Badge](https://img.shields.io/badge/-jaxkashif34-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/jaxkashif34)](https://github.com/jaxkashif34)
-[![Linkedin Badge](https://img.shields.io/badge/-jaxkashif34-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kashif-ali-ba8241196/)](https://www.linkedin.com/in/kashif-ali-ba8241196/)
-[![StackOverflow Badge](https://img.shields.io/badge/-jaxkashif34-FE7A16?style=flat&-square&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/16268028/kashif-ali)
-[![Gmail Badge](https://img.shields.io/badge/-jaxkashif34@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaxkashif34@gmail.com)](mailto:jaxkashif34@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/-jaxkashif34-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/jaxkashif34)](https://github.com/Nomad901)
+[![StackOverflow Badge](https://img.shields.io/badge/-jaxkashif34-FE7A16?style=flat&-square&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/30689153/nomad)
+[![Gmail Badge](https://img.shields.io/badge/-jaxkashif34@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaxkashif34@gmail.com)](mailto:maxim.ant07@gmail.com)
 
-- 🏢 I'm currently working on ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
 - 🚀 I use daily:
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?&logo=javascript)
-  ![React](https://img.shields.io/badge/-React-3b2e5a?&logo=react)
+  ![C++](https://img.shields.io/badge/-JavaScript-black?&logo=javascript)
   ![Git](https://img.shields.io/badge/-Git-black?&logo=git)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?&logo=visual-studio-code)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github)
@@ -32,7 +31,7 @@ I am a skilled and experienced full-stack developer with a strong background in 
   ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?&logo=Express.JS)
   ![Graphql](https://img.shields.io/badge/-Graphql-E10098?&logo=Graphql)
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-- ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
+- ⚡️ Fun fact: I am a big fun of Space. I love powerlifting and talking!
 
 ## ⚡ Technologies
 
@@ -62,8 +61,3 @@ I am a skilled and experienced full-stack developer with a strong background in 
 <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-1a202c?style=flat-square&logo=prisma&logoColor=white" />
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-# What Happened 😵❓
-
-## <p>If you are in a spaceship that is traveling at the speed of light, and you turn on the headlights, does anything happen ?<p>
-
