@@ -1,5 +1,5 @@
-<p align="center"><i>“People who dream small dreams - continue to live as small people.”</i></p>
-<p align="center"><i>- Robert Kiyosaki -</i></p>
+<p align="center"><i>“A mind without instruction can no more bear fruit than can a field, however fertile, without cultivation.”</i></p>
+<p align="center"><i>- Marcus Tullius Cicero 106 BCE - 43 BCE -</i></p>
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
